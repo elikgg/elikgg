@@ -59,11 +59,7 @@ Currently pursuing **B.Sc in Information Security** at Baku Engineering Universi
 - **Network Security**: TCP/IP analysis, port scanning, network segmentation
 - **Red Team Operations**: Internal reconnaissance and vulnerability assessment
 
-### 💻 Development
-- **Backend Development**: Scalable and efficient software solutions
-- **Database Design**: Performance optimization and data security
-- **Secure Coding**: Security-first development approach
-- **API Development**: RESTful services and HTTP protocols
+
 
 ---
 
