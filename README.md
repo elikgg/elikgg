@@ -17,7 +17,6 @@
 I'm a **driven and detail-oriented cybersecurity specialist** and **backend developer** passionate about crafting secure, efficient, and scalable software solutions. With over a year of hands-on experience in cybersecurity and a strong foundation in backend development, I specialize in:
 
 - 🔐 **Cybersecurity & Penetration Testing**
-- 💻 **Backend Development**
 - 🛡️ **Red Team Operations**
 - 🌐 **Web Application Security**
 
@@ -43,7 +42,7 @@ Currently pursuing **B.Sc in Information Security** at Baku Engineering Universi
 ### Databases & APIs
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=api&logoColor=white)
+
 
 ### Operating Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -132,7 +131,6 @@ Key responsibilities:
 
 I'm always excited to collaborate on interesting projects, especially those involving:
 - 🔐 Cybersecurity and penetration testing
-- 💻 Backend development and secure coding
 - 🛡️ Red team operations and threat hunting
 - 🌐 Web application security
 
